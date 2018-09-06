@@ -1,0 +1,15 @@
+{
+  "name": "tutorial-app",
+  "version": "1.0.0",
+  "description": "learn express and mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Roger0518",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.4"
+  }
+}
